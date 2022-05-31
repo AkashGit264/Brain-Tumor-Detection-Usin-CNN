@@ -1,0 +1,4 @@
+Unzip the dataset folder it contains YES and No named folder.
+Keep these folders in the same folder that has Brain Tumour Detection.ipynb file
+run the Brain Tumour Detection.ipynb file in jupyter Anaconda Navigator
+[ Note install Tensorflow and sklearn pre-hand before running the code on jupyter ] 
